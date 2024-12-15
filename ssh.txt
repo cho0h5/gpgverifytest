@@ -1,2 +1,4 @@
 I'm testing signing commit with ssh key.
 git config --global commit.gpgsign true
+git config --global tag.gpgSign true
+on mac book air
