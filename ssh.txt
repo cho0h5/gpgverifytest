@@ -1,1 +1,2 @@
 I'm testing signing commit with ssh key.
+git config --global commit.gpgsign true
