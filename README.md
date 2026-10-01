@@ -1,1 +1,1 @@
-This file is reated on web.
+This file is created on web.
