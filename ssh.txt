@@ -10,3 +10,4 @@ git log --show-signature -1
 
 5
 6
+7
